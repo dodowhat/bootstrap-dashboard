@@ -108,3 +108,15 @@ body {
   border-color: transparent;
   box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
 }
+
+.navbar .nav-link {
+  display: inline;
+}
+
+.navbar .navbar-nav {
+  flex-direction: row;
+}
+
+.navbar .navbar-nav .nav-item {
+  margin-left: 10px;
+}
